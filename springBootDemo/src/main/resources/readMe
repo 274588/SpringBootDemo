@@ -1,0 +1,2 @@
+IDEA中git每次push都要输入用户名和密码
+在终端输入：git config --global credential.helper store
